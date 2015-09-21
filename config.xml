@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="one.son.habari" version="15.7.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Habari</name>
+    <description>
+        Yesterday\'s News. Every Day.
+    </description>
+    <author email="runesonone@gmail.com" href="http://son.one">
+      Jesper Runeson
+    </author>
+    <content src="index.html" />
+    <icon src="res/mdpi.png" width="48" height="48" density="mdpi" />
+    <icon src="res/hdpi.png" width="72" height="72" density="hdpi" />
+    <icon src="res/xhdpi.png" width="96" height="96" density="xhdpi" />
+    <access origin="https://en.wikipedia.org/*" />
+    <access origin="http://*" launch-external="yes" />
+    <access origin="https://*" launch-external="yes" />
+</widget>
